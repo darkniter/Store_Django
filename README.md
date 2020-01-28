@@ -1,3 +1,3 @@
 # Store_Django
 Store_qiwin
-![](https://drive.google.com/open?id=19BCKNXv4rWEEKSFOGDtdaFuWb_JPlL_O)
+![](https://yandex.ru/collections/card/5c7b3c649af5af00399fd90f/)
