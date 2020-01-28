@@ -17,6 +17,7 @@ Removing product
 ![Removing product](https://github.com/darkniter/Images/blob/master/photo_2020-01-28_06-49-36.jpg)
 
 Getting product
+
 ![Getting product](https://github.com/darkniter/Images/blob/master/Screenshot_1.jpg)
 
 Getting a product that doesn't exist
