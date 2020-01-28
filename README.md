@@ -2,7 +2,7 @@
 Store_qiwin
 
 Getting list products
-![Getting list products]((https://github.com/darkniter/Images/blob/master/photo_2020-01-28_06-48-35.jpg)
+![Getting list products](https://github.com/darkniter/Images/blob/master/photo_2020-01-28_06-48-35.jpg)
 
 Create new product
 ![Create new product](https://github.com/darkniter/Images/blob/master/photo_2020-01-28_06-50-00.jpg)
